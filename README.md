@@ -13,7 +13,7 @@ The command starts http server and automatically watches for changes of source c
 If source code changes the change will be propagated to running server. It also opens debugging port `5005`
 so debugger can be attached if needed.
 
-To run test locally run `./mvnw test`.
+To run test locally run `./mvnw test`..
 
 ## The `func` CLI
 
